@@ -22,8 +22,8 @@
     "name": "Catalin Besleaga",
     "url": "http://catalinbesleaga.co"
   },
-  "repository": "https://github.com/Frondor/fdsfs",
-  "homepage": "https://github.com/Frondor/fdgdf#readme",
+  "repository": "https://github.com/katalonne/babel-preset-env-available-plugins",
+  "homepage": "https://github.com/katalonne/babel-preset-env-available-plugins#readme",
   "license": "MIT",
   "sideEffects": false,
   "devDependencies": {
