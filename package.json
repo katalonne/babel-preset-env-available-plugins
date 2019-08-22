@@ -65,8 +65,6 @@
     "plugins"
   ],
   "dependencies": {
-    "fetchival": "^0.3.3",
-    "reqwest": "^2.0.5",
     "then-request": "^6.0.2"
   }
 }
